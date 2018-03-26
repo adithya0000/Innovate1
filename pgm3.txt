@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>product information</title>
+</head>
+<body bgcolor="cyan" text="blue">
+<table border="1">
+<tr>
+<th>PRODUCTS</th>
+<th>CONFIGURATION/DETAILS</th>
+<th>PRICE</th>
+</tr>
+<tr>
+<td><img src="desktop.jpg" height="200" width="300"/></td>
+<td>Lenovo-Core I3 6th Gen/4 Gb Ddr4/1 Tb/FreeDos</td>
+<td>40,190/-</td>
+</tr>
+<tr>
+<td><img src="printer.jpg" height="200" width="300"/></td>
+<td>HP officeJet Pro 6960 All-in-one color printer(J7K33A)</td>
+<td>7,699/-</td>
+</tr>
+<tr>
+<td><img src="laptop.jpg" height="200" width="300"/></td>
+<td>Apple MacBook Air MMGF2HN/A</td>
+<td>64,990/-</td>
+</tr>
+</body>
+</html>
+
+
+
+<html>
+<head>
+<title>
+product
+</title>
+</head>
+<body>
+<table border="2" width="1500">
+<tr>
+<td><h1><center>PRODUCT</center></h1></td>
+<td><h1><center>DETAILS</center></h1></td>
+</tr>
+<tr>
+<td><img src="hpcomputer.jpg"width="200" height="200"><br><b>HP AIO 20-C102IL 19.5-Inch Screen All-In-One Desktop (Celeron J3060, 4GB DDR3 RAM, 1 TB HDD, DOS, Intel HD Graphics), Black</b></td>
+<td>
+    <b>1)</b> 49.53 cm (19.5 in) diagonal widescreen full high-definition VA WLED-backlit display <br><br>
+    <b>2)</b> Intel Celeron J3060 (Braswell-D) Processor, Molokai-U Motherboard<br><br>
+    <b>3)</b> 4 GB DDR3L-1600 RAM, 1 TB SATA 7200 rpm ROM<br><br>
+    <b>4)</b> DOS 2.0, Integrated Intel HD Graphics, Integrated speakers<br><br>
+    <b>5)</b> Integrated Bluetooth 4.0 and Wireless LAN 802.11b/g/n featuring 2.4 GHz 1x1 technology<br><br>
+    <b>6)</b> Ultra Slim Tray SuperMulti DVD Burner drive<br><br>
+    <b>7)</b> 1 Year Warranty<br><br>
+</td>
+</tr>
+<tr>
+<td><img src="hpprinter.jpg"width="200" height="200"><br><b>HP Sprocket Z3Z92A Portable Photo Printer (Black) </b></td>
+<td><b>1)</b>This compact printer was made to go wherever you go and it easily fits into your bag, so you can create 5 x 7.6 cm (2 x 3 inches) stickable snapshots whenever the moment strikes <br><br>
+    <b>2)</b>Easily print social media photos; connect your social media accounts to the HP Sprocket App and instantly turn any of those photos into colorful prints <br><br>
+    <b>3)</b> 4 GB DDR3L-1600 RAM, 1 TB SATA 7200 rpm ROM<br><br>
+    <b>4)</b> DOS 2.0, Integrated Intel HD Graphics, Integrated speakers<br><br>
+    <b>5)</b> Integrated Bluetooth 4.0 and Wireless LAN 802.11b/g/n featuring 2.4 GHz 1x1 technology<br><br>
+    <b>6)</b> Ultra Slim Tray SuperMulti DVD Burner drive<br><br>
+    <b>7)</b> 1 Year Warranty<br><br>
+
+</table>
+</body>
+</html>
